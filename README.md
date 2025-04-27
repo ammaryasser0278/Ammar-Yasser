@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ammar!
 
 🎓 I'm a **Computer Science student** at NUB – currently in my **final year**  
-📍 From **Bani Suef, Egypt**  
+📍 From **Beni Suef, Egypt**  
 📱 Passionate about **Mobile App Development** using **Flutter**  
 💡 Always learning, building, and exploring new tech  
 
